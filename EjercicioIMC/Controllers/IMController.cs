@@ -5,6 +5,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+
+/*Nombre de la escuela: Universidad Tecnologica Metropolitana
+Asignatura: Aplicaciones Web Orientadas a Objetos
+Nombre del Maestro: Chuc Uc Joel Ivan
+Nombre de la actividad: Ejercicio 3: Anagramas
+Nombre del alumno: Brek Mejia Samuel Alexander
+Cuatrimestre: 4
+Grupo: B
+Parcial: 1
+*/
+
+
 namespace EjercicioIMC.Controllers
 {
     [Route("api/[controller]")]
